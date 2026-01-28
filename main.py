@@ -1,3 +1,3 @@
 print('Hello')
 print('A')
-print("New de MN")
+print("New from MN")
